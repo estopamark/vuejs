@@ -1,2 +1,2 @@
-# vuejs
+# Vuejs
 Learning Guide Simple Project
